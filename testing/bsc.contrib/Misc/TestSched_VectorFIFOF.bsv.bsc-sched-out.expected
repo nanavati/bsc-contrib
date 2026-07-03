@@ -213,4 +213,5 @@ Logical execution order: fifo_first,
 
 ====================================================
 Verilog file created: mkVectorFIFOF_4_Bool.v
+Elaborated module file created: mkVectorFIFOF_4_Bool.ba
 All packages are up to date.
